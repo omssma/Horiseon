@@ -10,4 +10,4 @@ Images are also displayed. If they don't load, however, they will be altered wit
 
 The heading is put in orderly list, so it is sequential and undertood.
 
-The title element is also unique, as it will display "Welcome to Horiseon."
+The title element is also unique, as it will display "Welcome"
